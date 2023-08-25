@@ -1,0 +1,170 @@
+nav{
+    width: auto;
+    height: 80px;
+    line-height: 80px;
+    background-color: #FFFFFF;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.logotext a{
+    font-size:35px;
+}
+
+.multicolortext{
+    color: #2196F3;
+}
+
+nav li{
+    float: left;
+    display: inline;
+    padding-right: 120px;
+}
+
+nav li a{
+    color: #212121;
+    font-family: Roboto, sans-serif;
+    text-decoration: none; 
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+}
+
+nav li a:hover{
+    text-decoration: underline;
+    text-decoration-color: #2196F3;
+}
+
+nav h2{
+    letter-spacing: 1px;
+}
+
+.phonestyle{
+    float: right;
+}
+
+.phonestyle a{
+    color: #757575;
+}
+
+.titlesection{
+    background-color: #2F303A;
+    width: auto;
+    height: 600px;
+    text-align: center; 
+    letter-spacing: 2px;
+}
+
+.maintitlestyle{
+    width: 696px;
+    height: 120px;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto; /* a lipit sectiunea neagra cu titlul, de bara de navigare.. why?*/
+
+    padding-top: 170px;
+
+    font-family: Roboto, sans-serif;
+    font-weight: 900;
+    font-size: 44px;
+    text-align: center;
+    color: #FFFFFF;
+    letter-spacing: 2px;
+}
+
+.requestbutton{
+    margin-left: auto; 
+    margin-right: auto;
+
+    background-color: #2196F3;
+    width: 200px;
+    height: 50px;
+    font-family: Roboto, sans-serif;
+    color: #FFFFFF;
+}
+
+.descriptionsection{
+    font-family: Roboto, sans-serif;
+    width: 1230px;
+    height: 101px;
+
+    margin-top: 60px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-size: 14px;
+    text-align: left;
+    line-height: 24px;
+    margin-bottom: 60px;
+}
+
+.descriptionsection table{
+    padding: 5px 10px;
+}
+
+.descriptionsection tr{
+    color: #212121;
+}
+
+.descriptionsection td{
+    color: #757575;
+    letter-spacing: 1px;
+}
+
+.whatwedoimages{
+    text-align: center;
+}
+
+.whatwedoimages img{
+    padding-right: 2%;
+    padding-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 #cccccc;
+    background-color: #FFFFFF;
+    transition: 0.3s;
+    width: 270px;
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+.container p{
+    color: #757575;
+}
+
+.ourteam{
+    text-align: center;
+    background-color: #F5F4FA;
+    padding: 30px 1px;
+}
+
+.ourteam li{
+    display: inline-block;
+}
+
+footer{
+    font-family: Roboto, sans-serif;
+    background-color: #2F303A;
+    color: #FFFFFF;
+    padding: 50px 50px;
+    text-decoration: none;
+}
+
+.adressstyle{
+    font-style: normal;
+    letter-spacing: 1px;
+}
+
+.contactinfostyle{
+    font-style: normal;
+    color: #FFFFFF99;
+    letter-spacing: 1px;
+}
